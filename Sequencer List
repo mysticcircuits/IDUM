@@ -1,0 +1,15 @@
+LIST OF SEQUENCERS THAT HAVE BEEN TESTED TO WORK WITH IDUMS CLOCK MANIPULATION:
+
+Tree/ Leaves - Works at high and low clock speed
+
+Korg SQ-1 - Works at high clock speed, low clock speed untested.
+
+Ornaments and Crimes Sequins quencer - works at low clock speed.
+
+Make Noise Rene v.1 - works at low clock speed
+
+Make Noise 0.ctrl - works at low clock speed, loses steps every now and then
+
+Orthogonal Devices ER-101 - works at low clock speed.
+
+Music Thing Turing Machine - works at low clock speed.
