@@ -10,6 +10,10 @@
 //////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 //////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
+  For step by step instructions on how to upload this firmware to your IDUM module check out our video here:
+  
+  https://youtu.be/xqDko--2VXI
+
   Here it is folks, this is the code used in the IDUM Eurorack module sold by Mystic Circuits.  For a good
   overview of this module and how it works check out the product website at:
 
