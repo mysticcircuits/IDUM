@@ -1,3 +1,8 @@
+We just uploaded the front panel files for IDUM.  This file has all of the hole locations and important text but most of the art has been removed 
+to encourage people making 3rd party panels to make their own art.  Please keep in mind that the circuit board for IDUM is being tweaked for a new 
+manufacturing process and the drill holes for the jacks are going to move so if you plan on making a panel for this you will eventually need to 
+make a second panel.  Sorry about that.
+
 //////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 //////////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
